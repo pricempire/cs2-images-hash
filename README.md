@@ -1,1 +1,2 @@
-# cs2-images-hash
+# CS2 Images Hash json
+
